@@ -24,15 +24,14 @@ This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"*
 ## 📌 My process
 
 - I joined a bootcamp **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.<a href="https://ineuron.ai/"> **Check🚀 (Not Sponsered)**</a>
-- It took me about **3 hour** to complete this project.
-- As I have done my previous 2 assignments it took me less time than previous.
+- It took me about **12 hour** to complete this project.
+- As I have done my previous 8 assignments it took me less time than previous.
 
 ## 📌 What I Learn
 
 👉 Learn about linear gredient and how to put it on background images to make background image darker.  
 👉 Learned about some backgroud properties like position, size, color and repeat.  
 👉 How to place images in proper places using positions.  
-👉 Achieve some responsiveness using FlexBox.
 
 ## 📬 Connect With Me
 
